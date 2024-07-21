@@ -11,6 +11,7 @@ The assignment involves solving various tasks related to the modelling and contr
 
 ## Transformation Matrices with Respect to Base 
   a. Implemented **GetTransformationWrtBase()** function to compute the transformation matrices between each link and the base.
+  
   b. Tested the function by calculating the transformation of the end effector with respect to the base (eTb).
 
 ## End-Effector Jacobian Matrix 
