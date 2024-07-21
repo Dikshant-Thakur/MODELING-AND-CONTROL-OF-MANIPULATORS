@@ -4,9 +4,11 @@ The assignment involves solving various tasks related to the modelling and contr
 # Tasks and Solutions
 ## Define Model Matrices
   a. Implemented the **BuildTree()** function to define all the model matrices.
+  
   b. Defined the transformation and rotation matrices, as well as vectors defining the frames of the manipulator.
 ## Direct Geometry Calculation 
   a. Created the **DirectGeometry()** function to calculate the transformation matrix of link j with respect to link j-1 when joint j rotates or translates.
+  
   b Developed **GetDirectGeometry()** function to return all model matrices for a given joint configuration q*. 
 
 ## Transformation Matrices with Respect to Base 
@@ -19,6 +21,7 @@ The assignment involves solving various tasks related to the modelling and contr
 
 ## Robot Tool Frame Control
   a. Implemented control logic to move the robot tool frame to a specified goal frame.
+  
   b. Considered initial configuration (q0), goal position and goal frame roll-pitch-yaw parameters. 
 
 ## Desired Joint Velocities
