@@ -34,11 +34,12 @@ The assignment involves solving various tasks related to the modelling and contr
 
 # Files
 
-a. main.m: Main script to compile and run the assignment.
-b. /include: Folder containing the required functions:
-      BuildTree.m: Defines the model matrices.
-      DirectGeometry.m: Calculates transformation matrices.
-      GetDirectGeometry.m: Returns model matrices for a given joint configuration.
-      GetTransformationWrtBase.m: Computes transformation matrices with respect to the base.
-      GetJacobian.m: Computes the Jacobian matrix.
-      KinematicSimulation.m: Simulates the robot motion.
+- **main.m**: Main script to compile and run the assignment.
+- **include**: Folder containing the required functions:
+  - **BuildTree.m**: Defines the model matrices.
+  - **DirectGeometry.m**: Calculates transformation matrices.
+  - **GetDirectGeometry.m**: Returns model matrices for a given joint configuration.
+  - **GetTransformationWrtBase.m**: Computes transformation matrices with respect to the base.
+  - **GetJacobian.m**: Computes the Jacobian matrix.
+  - **KinematicSimulation.m**: Simulates the robot motion.
+
