@@ -1,5 +1,6 @@
 # Overview
-The assignment involves solving various tasks related to the modelling and control of a 7 Degree of Freedom (DOF) manipulator. The tasks require the use of MATLAB to implement solutions, simulate the robot motion, and achieve specific goals. The goal frame moves with the linear velocity with respect to the base frame  [-0.01, 0.02, 0]'. 
+The assignment involves solving various tasks related to the modelling and control of a 7 Degree of Freedom (DOF) manipulator. The tasks require the use of MATLAB to implement solutions, simulate the robot motion, and achieve specific goals. The goal frame moves with the linear velocity with respect to the base frame  [-0.01, 0.02, 0]'.
+Basically it's a exam given by my university , all the values related to this problem is available in the pdf attached.  
 
 # Tasks and Solutions
 ## Define Model Matrices
